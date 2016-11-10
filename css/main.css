@@ -4,6 +4,10 @@
    Author's custom styles
    ========================================================================== */
 
+.atil-font-theme {
+	color: #34495E;
+}
+
 .grey-background {
 	background-color: #eee;
 }
